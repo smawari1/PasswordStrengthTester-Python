@@ -105,3 +105,8 @@ Scores greater than 6 are considered strong.
 Asks the user if they want to try another password.
 If the user enters "yes", the loop continues, prompting for another password.
 If the user enters anything else, the program prompts to exit.
+
+# Additional Notes
+
+MAKE SURE you have "common.txt" Contained in the same folder that you have the sourse code runing from or else its not going to work in this instance.
+You can use any password file list as long as it is .txt I used this one because it was the first oen I found
